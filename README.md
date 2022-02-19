@@ -20,3 +20,5 @@ The single curvature metallic surfaces used in the device can be easily reused i
 But most importantly, the heliostat is able to rotate around a stable point, where the light is concentrated onto the immovable thermoelectric generator. A similar device consisted of a dish would need a heliostat moving at higher levels above the ground and confronting the wind with stronger materials, elevating the manufacturing costs. On the other hand, a topdown beam Fresnel reflector concentrator demands much more complicated construction.
 
 This invention is released under the permissive Cern open hardware licence CERN-OHL-P
+
+https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
