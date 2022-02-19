@@ -11,7 +11,7 @@ This paper is about to introduce another simple concept, which aims in cheap sma
 Device specification
 
 The device is consisted of a moving heliostat and a stable thermoelectric generator connected together. The moving heliostat can be constructed out of 2 single curvature parabolic reflectors vertically and statically positioned with each other. This set of two reflectors can move around the thermoelectric generator and concentrates sunlight on top of it to provide thermal energy to power the electricity generator.
-An ideal (100 suns concentration) model device specification could be as presented in the picture x.x. with the appropriate dimensions in cm. The most suitable material for constructing these reflectors seems to be aluminium covered with highly reflective film (approximately 98% reflectiveness). The model device heliostat moves with 2 motors, one assigned to the wheel to control the orientation and the other assigned to the elevation mechanism to control the angle with the ground.
+An ideal (100 suns concentration) model device specification could be as presented in the picture 1 with the appropriate dimensions in cm. The most suitable material for constructing these reflectors seems to be aluminium covered with highly reflective film (approximately 98% reflectiveness). The model device heliostat moves with 2 motors, one assigned to the wheel to control the orientation and the other assigned to the elevation mechanism to control the angle with the ground.
 
 Advantages
 
