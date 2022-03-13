@@ -14,6 +14,8 @@ Advantages
 
 This model device combines the manufacturing simplicity of single-curvature parabolic reflectors with a 2-dimensional concentration of light similar to dishes. In contrast with a parabolic dish reflector, this device can be built by amateurs also. The single curvature metallic surfaces used in the device can be easily reused in other ways when heat deformation ends their lifecycle as reflectors. But most importantly, the heliostat is able to rotate around a stable point, where the light is concentrated onto the immovable thermoelectric generator. A similar device consisting of a dish would need a heliostat moving at higher levels above the ground and confronting the wind with stronger materials, elevating the manufacturing costs. On the other hand, a topdown beam Fresnel reflector concentrator demands much more complicated construction.
 
+![concentrator-movement](https://github.com/John-Mich/Solar-Thermal-Concentrator/blob/main/movement.gif)
+
 This invention was released under the permissive Cern open hardware licence:
 
 CERN-OHL-P
