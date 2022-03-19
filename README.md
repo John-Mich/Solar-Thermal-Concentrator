@@ -16,6 +16,7 @@ This model device combines the manufacturing simplicity of single-curvature para
 
 
 ![concentrator-movement](https://github.com/John-Mich/Solar-Thermal-Concentrator/blob/main/concentrator_movement.gif)
+
 ![dimensions](https://github.com/John-Mich/Solar-Thermal-Concentrator/blob/main/Picture_1.jpg)
 
 This invention was released under the permissive Cern open hardware licence:
